@@ -1,4 +1,3 @@
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -55,11 +54,6 @@ public class Grille extends StackPane{
                 this.grille.get(l).add(p);
             }
         }
-    }
-
-    
-    private void initGrilleImage(){
-
     }
 
     /**
